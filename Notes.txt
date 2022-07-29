@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/cheedcheed/california-renewable-production-20102018
+
+California Renewable Production 2010-2018
+Hourly Power Production in California
+
+http://www.caiso.com/market/Pages/ReportsBulletins/DailyRenewablesWatch.aspx
+Daily Renewables Watch - discontinued
+The data previously found in the Renewables Watch Report is now available in Today’s Outlook and ISO Today mobile app. The Renewables Watch report was discontinued as of Dec. 1, 2021
+
+http://www.caiso.com/about/Pages/default.aspx
+
